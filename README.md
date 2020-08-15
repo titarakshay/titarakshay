@@ -40,7 +40,7 @@ Currently, I am learning MERN Stack Web Development at [AltCampus](https://altca
 ### Codewars ###
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-  <a href="https://www.codewars.com/users/titarakshay">Akshay Titar
+  <a href="https://www.codewars.com/users/titarakshay">
     <img src="https://www.codewars.com/users/titarakshay/badges/large" />
   </a>
 </p>  
