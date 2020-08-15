@@ -21,7 +21,7 @@ Currently, I am learning MERN Stack Web Development at [AltCampus](https://altca
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 📫 How to reach me: titarakshay@gmail.com
-- 📫 Read my blogs: [https://akshay.engineer](https:/akshay.engineer/)
+- 📫 Read my blogs: https://akshay.engineer/
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
