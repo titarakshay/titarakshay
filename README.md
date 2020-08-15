@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hi 👋, I'm Akshay Titar, a Full Stack Web Developer ##
 
-<!--
-**titarakshay/titarakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/titarakshay/">
+  <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/akshaytitar">
+  <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://medium.com/@197akshaytitar">
+  <img align="left" alt="Akshay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://github.com/titarakshay">
+  <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+&nbsp;
 
-Here are some ideas to get you started:
+### About Me ###
+----------------------------------------------------------------------------------------------------------------------------
+Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 📫 How to reach me: titarakshay@gmail.com
+- 📫 Read my blogs: [https://akshay.engineer](https:/akshay.engineer/)
+
+### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **HTML, CSS and JavaScript**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
+- Databases/ODM: - **MySQL, MongoDB and Mongoose**
+- Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
+
+### Github Readme Stats ###
+----------------------------------------------------------------------------------------------------------------------------
+<a href="https://profile-summary-for-github.com/user/titarakshay">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=titarakshay&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Akshay's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titarakshay&hide_langs_below=5&layout=compact" alt="Akshay's language stats"/>
+</a>
+
+### Codewars ###
+----------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <a href="https://www.codewars.com/users/titarakshay">Akshay Titar
+    <img src="https://www.codewars.com/users/titarakshay/badges/large" />
+  </a>
+</p>  
