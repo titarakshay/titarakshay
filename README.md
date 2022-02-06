@@ -25,7 +25,7 @@ Currently, I am learning MERN Stack Web Development at [AltCampus](https://altca
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS and JavaScript**
+- Languages - **HTML, CSS , JavaScript and Python**
 - Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
