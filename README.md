@@ -16,7 +16,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am working  at [DATAMETICA](https://www.datametica.com/in/), Pune, Maharashtra.
+Currently, I am working as software Engineer  at [DATAMETICA](https://www.datametica.com/in/), Pune, Maharashtra.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
