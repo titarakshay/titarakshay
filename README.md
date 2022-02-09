@@ -25,7 +25,7 @@ Currently, I am working as software Engineer  at [DATAMETICA](https://www.datame
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS , JavaScript and Python**
+- Languages - **HTML, CSS , JavaScript ,Shell  and Python**
 - Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
