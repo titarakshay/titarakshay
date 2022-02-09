@@ -16,7 +16,7 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
+Currently, I am working  at [DATAMETICA](https://www.datametica.com/in/), Pune, Maharashtra.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
